@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pman06
-- 👀 I’m interested in coding backends using python django framework and frontends with bootstrap, vue.js and react 
-- 🌱 I’m currently learning django and other dependencies...yes looking to start app creations for both IoS and android
-- 💞️ I’m looking to collaborate on any backend project
-- 📫 How to reach me?
+- 👋 Hi, I’m Paul Shoremekun
+- 👀 I’m interested in coding backends using python django framework and frontends with bootstrap and react 
+- 🌱 I’m versed in django and other dependencies...yes already including DevOps to my tech skills
+- 💞️ I’m looking to collaborate on any DevOps and Software Dev project
+- 📫 How to reach me? https://www.linkedin.com/in/coolclass/
 
 <!---
 pman06/pman06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
