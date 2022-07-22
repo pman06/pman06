@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul Shoremekun
 - 👀 I’m interested in coding backends using python django framework and frontends with bootstrap and react 
-- 🌱 I’m versed in django and other dependencies...yes already including DevOps to my tech skills
+- 🌱 I’m versed in Siftware Development, DevOps, and CyberSecurity
 - 💞️ I’m looking to collaborate on any DevOps and Software Dev project
 - 📫 How to reach me? https://www.linkedin.com/in/coolclass/
 
