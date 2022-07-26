@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul Shoremekun
+- 👋 Hi, my name is Paul Shoremekun
 - 👀 I’m interested in coding backends using python django framework and frontends with bootstrap and react 
 - 🌱 I’m versed in Software Development, DevOps, and CyberSecurity
 - 💞️ I’m looking to collaborate on any DevSecOps and Software Dev project
