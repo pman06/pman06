@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Paul Shoremekun
-- 👀 I’m interested in coding backends using python django framework and frontends with bootstrap and react 
-- 🌱 I’m versed in Software Development, DevOps, and CyberSecurity
-- 💞️ I’m looking to collaborate on any DevSecOps and Software Dev project
+- 🌱 I’m versed in Software Development, DevOps Engineering, CyberSecurity, and also an enthusiastic  Blockchain Developer
+- 👀 I’m experienced in the application of Devops proccesses to a SDLC project for both Web2 and Web3.
+- 💞️ I’m looking to collaborate on any DevSecOps and Web3 project.
 - 📫 How to reach me? https://www.linkedin.com/in/coolclass/
 
 <!---
